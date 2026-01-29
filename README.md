@@ -6,7 +6,7 @@ AI-powered testing skills for automation frameworks.
 
 | Skill | Description |
 |-------|-------------|
-| [selenium-selfhealing](./skills/selenium-selfhealing/) | Self-healing Selenium tests with MCP |
+| [selenium-selfhealing](.agent-skills/skills/selenium-selfhealing) | Self-healing Selenium tests with MCP |
 
 ## Install
 ```bash
