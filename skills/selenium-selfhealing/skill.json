@@ -1,0 +1,10 @@
+{
+  "name": "selenium-selfhealing",
+  "version": "1.0.0",
+  "description": "AI-powered self-healing Selenium tests with Reqnroll BDD and local AI (Ollama)",
+  "author": "aiqualitylab",
+  "license": "MIT",
+  "keywords": ["selenium", "self-healing", "testing", "ai", "reqnroll", "bdd", "dotnet", "ollama"],
+  "runtime": "dotnet",
+  "repository": "https://github.com/aiqualitylab/SeleniumSelfHealing.Reqnroll"
+}

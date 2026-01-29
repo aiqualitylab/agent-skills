@@ -2,11 +2,14 @@
 
 AI-powered testing skills for automation frameworks.
 
+[![Skills](https://img.shields.io/badge/Skills-1-blue)]()
+[![License](https://img.shields.io/badge/License-MIT-green)]()
+
 ## Available Skills
 
 | Skill | Description |
 |-------|-------------|
-| [selenium-selfhealing](agent-skills/skills/selenium-selfhealing) | Self-healing Selenium tests with MCP |
+| [selenium-selfhealing](./skills/selenium-selfhealing/) | AI-powered self-healing Selenium tests with Reqnroll BDD |
 
 ## Install
 ```bash
