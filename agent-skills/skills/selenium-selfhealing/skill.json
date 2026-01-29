@@ -1,0 +1,10 @@
+{
+  "name": "selenium-selfhealing",
+  "version": "1.0.0",
+  "description": "AI-powered self-healing Selenium tests with automatic locator recovery via MCP",
+  "author": "aiqualitylab",
+  "license": "MIT",
+  "keywords": [ "selenium", "self-healing", "testing", "mcp", "automation", "qa" ],
+  "runtime": "universal",
+  "repository": "https://github.com/aiqualitylab/selenium-selfhealing-mcp"
+}
