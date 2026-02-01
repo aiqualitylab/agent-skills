@@ -1,0 +1,11 @@
+{
+  "name": "api-testing",
+  "description": "Generate and run REST API tests using Postman collections and Newman CLI.",
+  "version": "1.0.0",
+  "author": "AI Quality Lab",
+  "homepage": "https://aiqualityengineer.com",
+  "repository": "https://github.com/aiqualitylab/agent-skills",
+  "license": "MIT",
+  "category": "testing",
+  "keywords": ["api-testing", "postman", "newman", "rest-api", "integration-testing"]
+}
